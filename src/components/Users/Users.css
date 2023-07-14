@@ -1,0 +1,9 @@
+.card{
+    background-image: url(../../images/i2.jpg);
+}
+
+.profile-image{
+    border-radius: 50%;
+    max-width: 300px;
+    width:100%;
+}
